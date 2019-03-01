@@ -5,5 +5,5 @@ Este projeto foi criado para o desenvolvimento da atividade de **Tolerância a F
 O projeto foi desenvolvido pelos alunos:
 
 - João Victor T. Borges
-- Henrick Ramalho
+- José Henrick V. Ramalho
 - Victor R. S. de Oliveira
